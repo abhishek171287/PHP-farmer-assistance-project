@@ -1,14 +1,3 @@
 # PHP-farmer-assistance-project
 
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant John
-    link Alice: Dashboard @ https://dashboard.contoso.com/alice
-    link Alice: Wiki @ https://wiki.contoso.com/alice
-    link John: Dashboard @ https://dashboard.contoso.com/john
-    link John: Wiki @ https://wiki.contoso.com/john
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    Alice-)John: See you later!
-```
+https://mermaid.live/edit#pako:eNqNkk1LAzEQhv_KkJNiW--LFMR6EIo9KPayl2kytkM3M2s-WkrpfzfbL0ShlRASJvPO-0ySrbHqyFQm0lcmsTRinAf0tQCgTRqAn9R7FNdFWgyJLbcoCcaYxS4oTDUsZ0W5mLI4XT-6FUcNv7NfJKay_imic5YRJqylG3B26w-Hd5cdKmg1pkNo0pLc3Hb6V00EuqIA19STkhTYUYS0IIjoCTylhTpggYdZuB-CbTBG0DAfkG24jTTIPMC2bdhiYpXB-lT7R9fdvOzd9Xa6kApE1wf0YwT65bx_Db9jtjkEKgI-CnNkmR-62cREvvCrXf6PCfZQ5-eoIqWxovtgWj-Le2dPB0jTM56CR3blz2z3tU1x9FSbqmwdfWJuUm1q2ZVUzEnfNmJNlUKmnsmtw3T6Yqb6xCbS7ht5w-n4
